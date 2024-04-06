@@ -159,6 +159,17 @@ li {
     align-items: flex-start;
 }
 
+.project-tile a {
+    height: 10px;
+    border: 2px solid var(--text);
+    color: var(--text);
+    text-decoration: none;
+    width: 100%;
+    padding: 10px;
+    position: relative;
+    
+}
+
 iframe {
     width: 85rem;
     height: 100rem;
@@ -170,9 +181,8 @@ iframe {
 
 .project-tile {
     width: 340px;
-    height: 400px;
+    height: 420px;
     overflow: clip;
-
 }
 
 #project-1 {
