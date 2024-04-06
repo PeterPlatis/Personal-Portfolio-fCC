@@ -170,6 +170,10 @@ li {
     
 }
 
+.project-tile a:hover {
+    color: gray;
+}
+
 iframe {
     width: 85rem;
     height: 100rem;
