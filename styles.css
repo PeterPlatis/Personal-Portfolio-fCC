@@ -6,7 +6,7 @@
 }
 
 @media (prefers-color-scheme: light) {
-    img {
+    img, #tab-icon {
         filter: invert(1);
     }
     :root {
