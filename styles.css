@@ -306,7 +306,7 @@ footer h2 {
 
     .project-tile:hover {
         transition: 0.2s;
-        scale: 2;
-        z-index: 2;
+        scale: 1.5;
+        z-index: 4;
     }
 }
