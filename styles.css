@@ -97,14 +97,14 @@ li {
     list-style: none;
 }
 
-#nav-link a {
+.nav-link a {
     text-decoration: none;
     padding: 20px;
     font-size: 1.3rem;
     color: var(--text);
 }
 
-#nav-link a:hover {
+.nav-link a:hover {
     color: gray;
 }
 
