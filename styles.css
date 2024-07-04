@@ -140,6 +140,10 @@ li {
     text-align: start;
 }
 
+iframe {
+    border: none;
+}
+
 #projects {
     display: grid;
     grid-template-columns: 1fr;
